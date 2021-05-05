@@ -2,6 +2,8 @@ package pitertest;
 
 public class Animals {
 	
+	// modifica del master
+	
 	private String name;
 
 	public String getName() {
