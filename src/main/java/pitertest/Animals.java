@@ -2,6 +2,8 @@ package pitertest;
 
 public class Animals {
 	
+	// vamos a llevar este mensaje
+	
 	// nuevo comment
 	
 	private String name;
