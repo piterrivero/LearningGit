@@ -2,8 +2,6 @@ package pitertest;
 
 public class Animals {
 
-	// added other comments
-	
 	private String name;
 
 	public String getName() {
