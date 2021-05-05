@@ -2,9 +2,7 @@ package pitertest;
 
 public class Animals {
 	
-	// XXX vamos a llevar este conflict mensaje
-	
-	// nuevo comment
+	// XXX Hola
 	
 	private String name;
 
@@ -16,5 +14,4 @@ public class Animals {
 		this.name = name;
 	}
 	
-	// modifica banch xxx
 }
