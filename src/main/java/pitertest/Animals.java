@@ -1,8 +1,6 @@
 package pitertest;
 
 public class Animals {
-
-	// Modifica del master
 	
 	private String name;
 
