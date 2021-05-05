@@ -2,8 +2,6 @@ package pitertest;
 
 public class Animals {
 
-	// comment to revert
-	
 	private String name;
 
 	public String getName() {
