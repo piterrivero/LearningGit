@@ -2,7 +2,7 @@ package pitertest;
 
 public class Animals {
 	
-	// vamos a llevar este conflict mensaje
+	// XXX vamos a llevar este conflict mensaje
 	
 	// nuevo comment
 	
