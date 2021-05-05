@@ -2,7 +2,7 @@ package pitertest;
 
 public class Animals {
 	
-	// XXX Hola
+	// XYX Hola
 	
 	private String name;
 
